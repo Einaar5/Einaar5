@@ -1,7 +1,7 @@
 
   ![MasterHead](https://media.licdn.com/dms/image/v2/D4D1BAQFqFYxDHiEzdg/company-background_10000/company-background_10000/0/1659776486498/dotnet_openings_cover?e=1746554400&v=beta&t=MD9G3SX8txomf42LB5SyrfcWcP9_rHPaxjub-QnyArM)
 
-<h1 align="center">Hi 👋, I'm Can Bayır</h1>
+<h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">A passionate .NET Core developer from Türkiye</h3>
 
 - 🔭 I’m currently working on [Student Information System](PRİVATE)
