@@ -1,4 +1,5 @@
-[![MasterHead](https://www.esenceweb.com/backend/uploads/MVC_(1)4.png)
+
+  ![MasterHead](https://www.esenceweb.com/backend/uploads/MVC_(1)4.png)
 
 <h1 align="center">Hi 👋, I'm Can Bayır</h1>
 <h3 align="center">A passionate .NET Core developer from Türkiye</h3>
