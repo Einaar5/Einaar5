@@ -18,7 +18,7 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy Snake to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
