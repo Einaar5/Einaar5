@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">A passionate .NET Core developer from Türkiye</h3>
 
-- 🔭 I’m currently working on [Student Information System](PRİVATE)
+- 🔭 I’m currently working on [Student Information System](https://github.com/Einaar5/OgrenciBilgiSistemiProje)
 
 - 🌱 I’m currently learning **.NET Core Entity Framework, MVC**
 
