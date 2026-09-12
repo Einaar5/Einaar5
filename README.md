@@ -13,6 +13,8 @@
 
 <p align="center"><img src="stack-2.svg" alt="Stack: C#, .NET Core, ASP.NET MVC, Entity Framework, Razor, MSSQL, MySQL, TypeScript, React, Next.js, Node.js, Tailwind CSS, Vue.js, JavaScript, HTML5, CSS3, Bootstrap, Flutter, Dart, Firebase, Git" width="100%"></p>
 
+<p align="center"><a href="https://einaar5.github.io/portfolio/"><img src="portfolio.svg" alt="Featured project: Portfolio — this site, hand-built HTML/CSS/JS" width="100%"></a></p>
+
 <p align="center"><a href="https://github.com/Einaar5/EinarTask"><img src="project-2.svg" alt="Featured project: EinarTask — task management on ASP.NET Core MVC" width="100%"></a></p>
 
 <p align="center"><img src="snake-2.svg" alt="Activity" width="100%"></p>
