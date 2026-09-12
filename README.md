@@ -1,4 +1,4 @@
-<p align="center"><img src="header.svg" alt="Can Bayır — Design & web development that ships" width="100%"></p>
+<p align="center"><img src="header-2.svg" alt="Can Bayır — Design & web development that ships" width="100%"></p>
 
 <p align="center"><img src="intro.svg" alt="Full-stack developer from Türkiye" width="100%"></p>
 
@@ -11,10 +11,10 @@
 
 <p align="center"><img src="now.svg" alt="Now: building EinarTask, learning Next.js and EF Core. How I work: prototype in the browser, systems not screens, ship then refine." width="100%"></p>
 
-<p align="center"><img src="stack.svg" alt="Stack: C#, .NET Core, ASP.NET MVC, Entity Framework, Razor, MSSQL, MySQL, TypeScript, React, Next.js, Node.js, Tailwind CSS, Vue.js, JavaScript, HTML5, CSS3, Bootstrap, Flutter, Dart, Firebase, Git" width="100%"></p>
+<p align="center"><img src="stack-2.svg" alt="Stack: C#, .NET Core, ASP.NET MVC, Entity Framework, Razor, MSSQL, MySQL, TypeScript, React, Next.js, Node.js, Tailwind CSS, Vue.js, JavaScript, HTML5, CSS3, Bootstrap, Flutter, Dart, Firebase, Git" width="100%"></p>
 
-<p align="center"><a href="https://github.com/Einaar5/EinarTask"><img src="project.svg" alt="Featured project: EinarTask — task management on ASP.NET Core MVC" width="100%"></a></p>
+<p align="center"><a href="https://github.com/Einaar5/EinarTask"><img src="project-2.svg" alt="Featured project: EinarTask — task management on ASP.NET Core MVC" width="100%"></a></p>
 
-<p align="center"><img src="snake.svg" alt="Activity" width="100%"></p>
+<p align="center"><img src="snake-2.svg" alt="Activity" width="100%"></p>
 
 <p align="center"><img src="footer.svg" alt="Istanbul / Remote · Open for new work · canbayirr055@gmail.com · github.com/Einaar5" width="100%"></p>
