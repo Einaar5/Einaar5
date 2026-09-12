@@ -13,26 +13,12 @@
 
 <br>
 
-<table align="center" border="0">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Now</h3>
-      <table border="0">
-        <tr><td><b>Building</b></td><td><a href="https://github.com/Einaar5/EinarTask">EinarTask</a> — task management on ASP.NET Core MVC</td></tr>
-        <tr><td><b>Learning</b></td><td>Entity Framework Core, MVC architecture</td></tr>
-        <tr><td><b>Ask me about</b></td><td>Razor Pages, MVC, MSSQL</td></tr>
-        <tr><td><b>Contact</b></td><td><a href="mailto:canbayirr055@gmail.com">canbayirr055@gmail.com</a></td></tr>
-      </table>
-    </td>
-    <td valign="top" width="50%">
-      <h3>How I work</h3>
-      <table border="0">
-        <tr><td><b>01</b></td><td>Prototype in the browser — real data, not filler</td></tr>
-        <tr><td><b>02</b></td><td>Systems, not screens — reusable layouts and components</td></tr>
-        <tr><td><b>03</b></td><td>Ship, then refine — small releases, every week</td></tr>
-      </table>
-    </td>
-  </tr>
+<table align="center">
+  <tr><th align="left">Now</th><th align="left">How I work</th></tr>
+  <tr><td><b>Building</b> — <a href="https://github.com/Einaar5/EinarTask">EinarTask</a>, task management on ASP.NET Core MVC</td><td><b>01</b> Prototype in the browser — real data, not filler</td></tr>
+  <tr><td><b>Learning</b> — Entity Framework Core, MVC architecture</td><td><b>02</b> Systems, not screens — reusable layouts and components</td></tr>
+  <tr><td><b>Ask me about</b> — Razor Pages, MVC, MSSQL</td><td><b>03</b> Ship, then refine — small releases, every week</td></tr>
+  <tr><td><b>Contact</b> — <a href="mailto:canbayirr055@gmail.com">canbayirr055@gmail.com</a></td><td><b>Based in</b> Istanbul / Remote</td></tr>
 </table>
 
 <br>
